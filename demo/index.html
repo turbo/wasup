@@ -1,0 +1,28 @@
+<html>
+    
+    <head>
+        <link rel="stylesheet" href="css/app.css">
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+    </head>
+    
+    <body>
+        <div id="main">
+            <p id="logo">
+                WEB ASSEMBLY / WASUP DEMO
+                <br>
+                <a class="github-button headspace" href="https://github.com/turbo/wasup" data-show-count="true" aria-label="Star turbo/wasup on GitHub">Star</a>
+            </p>
+            <canvas id="image"></canvas>
+            <div id="overlay"></div>
+            <div id="bigslode">
+                <p>Brightness Boost</p>
+                <input id="slider1" type="range" min="0" max="1000" step="10" value="150" />
+                <p>Detection Treshold</p>
+                <input id="slider2" type="range" min="0" max="255" step="1" value="50" />
+            </div>
+        </div>
+        <script src="wu.js"></script>
+        <script src="js/app.js"></script>
+    </body>
+    
+</html>
