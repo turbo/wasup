@@ -8,7 +8,7 @@ You can use this for quick wasm experiments or rapid prototyping on a machine th
 
 This demo uses a modified version of [migerh's minimal wasm sample](https://github.com/migerh/wasm-filter/blob/master/filter.c). You need a webcam for this.
 
-[:camera: **Open Edge Detection Demo**](/wasup/demo)
+[&#128247; **Open Edge Detection Demo**](/wasup/demo)
 
 ### Quick Start Guide
 
