@@ -43,3 +43,7 @@ WASM(
 - The second parameter is a list of functions imported from JS, with the signature to be used by wasm. Don't separate multiple functions with commas, just write them like you would any other code block. 
 
 Now call functions defined in your C code by using the exports of the wasmModule.
+
+Compile errors are logged to the console like any other exception:
+
+![](http://imgur.com/xRDlTEW.png)
