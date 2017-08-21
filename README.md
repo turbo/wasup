@@ -1,4 +1,4 @@
-> If you are reading this on GitHub, please [visit the website](https://turbo.github.io/wasup/)
+> If you are reading this on GitHub, please [visit the website](https://turbo.github.io/wasup/). If your are on the website, [here](https://github.com/turbo/wasup)'s the source code.
 
 Wasup is a build server and CDN for single-page, portable and standalone C programs. Given programs are compiled to Web Assembly, without any modules (such as libc).
 
